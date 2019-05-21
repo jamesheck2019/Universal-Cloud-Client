@@ -11,4 +11,8 @@ one client for all your clouds
 * stream videos directly from your clouds account
 * view photos directly from cloud
 
+`Supported Clouds Services:`
+[https://github.com/jamesheck2019/Universal-Cloud-Client/wiki/Supported-Clouds-Services](https://github.com/jamesheck2019/Universal-Cloud-Client/wiki/Supported-Clouds-Services)
+
+
 ![https://i.postimg.cc/dQBPbc8K/ure-Wiz337.png](https://i.postimg.cc/dQBPbc8K/ure-Wiz337.png)
