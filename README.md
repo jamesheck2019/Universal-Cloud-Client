@@ -15,4 +15,4 @@ one client for all your clouds
 [https://github.com/jamesheck2019/Universal-Cloud-Client/wiki/Supported-Clouds-Services](https://github.com/jamesheck2019/Universal-Cloud-Client/wiki/Supported-Clouds-Services)
 
 
-![https://i.postimg.cc/dQBPbc8K/ure-Wiz337.png](https://i.postimg.cc/dQBPbc8K/ure-Wiz337.png)
+![https://i.postimg.cc/5NkzSv8p/OHMWob2-Nhg.png](https://i.postimg.cc/5NkzSv8p/OHMWob2-Nhg.png)
