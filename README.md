@@ -1,5 +1,5 @@
 ## Universal Cloud Client
-**one client for all of your favorite clouds (Multicloud Manager)**
+**one client for all of your favorite clouds, multiple clouds unlimited accounts (Multicloud Manager)**
 
 `Download:`
 [https://github.com/jamesheck2019/Universal-Cloud-Client/releases](https://github.com/jamesheck2019/Universal-Cloud-Client/releases)
@@ -11,6 +11,8 @@
 * tracking upload/download progress status
 * stream videos directly from your cloud account
 * view photos directly from cloud
+* [Download Using Internet Download Manager (IDM)](https://github.com/jamesheck2019/Universal-Cloud-Client/wiki/Download-Using-Internet-Download-Manager-(IDM))
+
 
 ## Supported Clouds Services:
 > * 4Shared.com
@@ -39,6 +41,12 @@
 > * MailBox.org
 
 
-![providers](https://i.postimg.cc/SNfs1PKX/ure-Wiz335.png)
+![https://i.postimg.cc/SNfs1PKX/ure-Wiz335.png](https://i.postimg.cc/SNfs1PKX/ure-Wiz335.png)
 
-![main](https://i.postimg.cc/PJKMCCHg/Universal-Cloud-Client-o26-Vvd-Af-KO.png)
+![main_screen](https://i.postimg.cc/PfpV8qnX/Univ6w.png)
+
+![play_video](https://i.postimg.cc/ZqvZ9cwj/ure-Wiz874.png)
+
+![Sent_to](https://i.postimg.cc/rsSBhvxF/ure-Wiz875.png)
+
+![export_to](https://i.postimg.cc/8cpQvHX0/ure-Wiz876.png)
